@@ -1,0 +1,31 @@
+window_width: 600
+window_height: 600
+FPS: 60
+number_of_satellites: 3
+
+Satellite 1:
+-mass: 500000000000
+-x: 300
+-y: 300
+-x_velocity: 0
+-y_velocity: 0
+-color: color_black
+
+Satellite 2:
+-mass: 50
+-x: 500
+-y: 300
+-x_velocity: 0
+-y_velocity: -0.35
+-color: color_red
+
+Satellite 3:
+-mass: 50
+-x: 100
+-y: 300
+-x_velocity: 0
+-y_velocity: 0.4085
+-color: color_blue
+
+
+
